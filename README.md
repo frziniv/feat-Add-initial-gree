@@ -16,5 +16,4 @@ def greet(name):
 # Get user's name from input and call the function
 user_name = input("Please enter your name: ")
 greet(user_name) the function
-user_name = input("Please enter your name: ")
-greet(user_name)greet("World")
+user_name =
